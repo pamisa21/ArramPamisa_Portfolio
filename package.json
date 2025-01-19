@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "framer-motion": "^11.18.1",
+    "phosphor-react": "^1.4.1",
+    "react-router": "^7.1.3"
+  }
+}
